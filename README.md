@@ -69,7 +69,7 @@ curl -s http://${MASTER_IP}:${PORT}/v1/chat/completions \
   -d '{"model": "auto", "messages": [{"role": "user", "content": "What is the capital of France?"}]}'
 ```
 
-More usage can be found [here](https://cookbook.sglang.io/autoregressive/inclusionAI/Ring-2.5-1T)
+More usage can be found [here](https://cookbook.sglang.io/autoregressive/InclusionAI/Ling-2.5-1T)
 
 ## Finetuning
 
@@ -78,11 +78,3 @@ We recommend you to use [Llama-Factory](https://github.com/hiyouga/LLaMA-Factory
 ## License
 
 This code repository is licensed under [the MIT License](https://github.com/inclusionAI/Ling-V2.5/blob/main/LICENSE).
-
-## Citation
-
-If you find our work helpful, feel free to give us a cite.
-
-```
-
-```
